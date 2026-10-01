@@ -10,7 +10,7 @@ Maintained by **Fargrim**. This is the historical AlphaRune v0.2.6 report. The a
 - Latest installer: https://github.com/rafael00kl/alpharune-releases/releases/latest/download/AlphaRune-Setup.exe
 - Versioned installer: https://github.com/rafael00kl/alpharune-releases/releases/download/v0.2.6/AlphaRune-Setup.exe
 - Versioned launcher: https://github.com/rafael00kl/alpharune-releases/releases/download/v0.2.6/AlphaRune.exe
-- [Installation, update and release procedure](distribution.md)
+- [Installation and updates](https://github.com/rafael00kl/rifteemo-releases#installation-and-updates)
 
 The public release repository has its own documentation history; it does not contain or merge the private engine source history. Runtime frontend/Python files are shipped as required by the existing architecture. Actual source commit, validation input/binary hashes, platform and package checksum are recorded in release-manifest.json. VERSION is 0.2.6.
 
