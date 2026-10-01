@@ -38,3 +38,5 @@ Plataforma suportada: Windows x64 + Ubuntu 26.04 x86_64 em WSL + Microsoft Edge.
 Os executáveis Windows reais, o cliente empacotado e a engine foram testados em diretórios e portas isolados. A instalação interativa em um Windows limpo sem WSL, incluindo UAC/reboot, ainda precisa de teste de aceitação; o relatório da release detalha esse limite. Não se trata de certificação de todas as cartas.
 
 Logs do backend ficam em `%LOCALAPPDATA%/AlphaRune/logs` ou `AlphaRuneRelease/logs`. Logs de atualização ficam no WSL em `~/.local/share/alpharune/logs/update.log` e `update-status.json`.
+
+[Relatório completo da entrega v0.2.6](RELATORIO-v0.2.6.md), incluindo testes e limitações.
