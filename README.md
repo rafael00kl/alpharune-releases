@@ -1,5 +1,14 @@
 # AlphaRune — downloads oficiais do projeto
 
+## Origem e créditos
+
+Esta versão modificada do AlphaRune foi construída inicialmente sobre a **base completa de [chorlick/alpharune](https://github.com/chorlick/alpharune)**: engine C++, arquitetura, implementações de cartas, regras, testes e ferramentas. O crédito por essa base pertence ao projeto original de **chorlick** e aos seus contribuidores. O nosso trabalho preserva o histórico recebido e acrescenta as customizações locais, cliente/interface, auditoria, versionamento, instalação e updates.
+
+O dataset de **[LouisCourrian/riftbound-cards](https://github.com/LouisCourrian/riftbound-cards)** é a fonte auxiliar de metadata, textos, IDs, sets e URLs de imagens usada na comparação e auditoria de cartas. Crédito a LouisCourrian e aos contribuidores. Ele é mantido separadamente e não implementa regras/cartas automaticamente na engine.
+
+Riftbound e suas artes pertencem à **Riot Games**. As [cartas oficiais](https://playriftbound.com/en-us/card-gallery/) e [regras oficiais](https://playriftbound.com/en-us/rules/) continuam como referências. O repositório original é acompanhado por upstream somente leitura; mudanças da engine são analisadas antes de qualquer integração. A auditoria consulta a fonte externa semanalmente e também pode ser executada manualmente.
+
+
 Código do projeto: [rafael00kl/alpharune](https://github.com/rafael00kl/alpharune) (privado, exige acesso).
 Este repositório público contém instruções e releases. Não contém o histórico da engine privada.
 
